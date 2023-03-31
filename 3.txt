@@ -1,0 +1,11 @@
+a) A lógica é sempre adicionar 2 ao número antecessor. o próximo número seria 9.
+
+b) multiplicar cada número por 2, o próximo número seria 128.
+
+c) elevar cada número ao quadrado. Portanto, o próximo número seria 49.
+
+d) A lógica é adicionar 4 ao quadrado do número anterior, o próximo número seria 100.
+
+e) A lógica é a soma dos dois números anteriores. Portanto, o próximo número seria 13.
+
+f) Este não consegui entender muito bem, infelizmente....
